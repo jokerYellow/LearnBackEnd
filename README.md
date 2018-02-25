@@ -1,5 +1,5 @@
 # 学习后端与前端
-
+### 目标1：做一个简单的文字页面，文字信息从接口取，前端用来展示
 # doing
 1. 学习RestFramework框架
 已做：在python3.5的虚拟环境下，本地运行起了RestFramework的quickStart。
