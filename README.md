@@ -8,8 +8,8 @@
 已做：起一个前端框架，准备用Vue来与RestFramework交互，通过$ajax与后端进行交互，解决了跨域问题之后，获取到了数据。
 2. 学习Vue框架。
 3. 简单使用了Vue框架。/done
-b. 了解node.js
-c. 了解webpack
+4. 了解node.js
+5. 了解webpack
 
 
 
