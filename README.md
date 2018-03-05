@@ -10,9 +10,9 @@
 3. 简单使用了Vue框架。
 4. 了解node.js
 5. 了解webpack
+6. 将Vue的demo放在了服务器上，通过apache提供的服务，地址[http://107.182.186.4/index.html]。
 # doing
-6. 使用Vue-cli开发，感觉步子有点大
-
+6. 使用Vue-cli开发，感觉步子有点大，地址[https://github.com/jokerYellow/LearningVue.git]
 
 # todo
 1. Apache 搭建
