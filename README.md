@@ -12,8 +12,10 @@
 5. 了解webpack
 6. 将Vue的demo放在了服务器上，通过apache提供的服务，[服务地址](http://107.182.186.4/index.html)。
 7. 使用Vue-cli开发，感觉步子有点大，[项目地址](https://github.com/jokerYellow/LearningVue.git)
+8. 熟悉[Django](https://www.djangoproject.com)框架
+
 # doing
-1. 熟悉[Django](https://www.djangoproject.com)框架
+1. learn java？
 
 # todo
 1. Apache 搭建
